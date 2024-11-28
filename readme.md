@@ -30,3 +30,14 @@ If you use Overleaf for latex editing you can copy [this project](https://www.ov
     7. *dedication.tex*: Add your dedication in this file.
 7. **thesis_book.tex** is the main file of the report. You can change organization of the book from this file. From lines 22 onward change the layout of your report. Add or remove any chapters, appendix, etc. from here.
 8. **neub_cse_thesis.sty** File has the styling and template for whole report. You should not need to change anything here. Take caution when changing anything here. Here, you can change Page type, margin, font type, size, line spacing and glossaries etc.
+
+## Copying the project in Overleaf
+1. Go to **[this link](https://www.overleaf.com/read/gqnnyxfmhbky#a0ccf7)** and click **Join Project** button.
+![Join Project Page](templateImages/forInstructions/overleaf1.png "Join Project Page")
+2. This project will be now read-only. You have to copy the project for you to edit the template. For this **click on the menu button** to reveal the menu sidebar.
+![Project Page](templateImages/forInstructions/overleaf2.png "Project Page")
+3. On the menu sidebar click **Copy Project** button.
+![Menu Sidebar](templateImages/forInstructions/overleaf3.png "Menu Sidebar")
+4. On the Popup input the name of the overleaf project and click **Copy** button. Ideally you should name your Thesis/Project as the name of the overleaf project.
+![Copy Project Popup](templateImages/forInstructions/overleaf4.png "Copy Project Popup")
+5. You will be able to edit the new project in overleaf.
