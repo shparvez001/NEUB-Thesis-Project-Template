@@ -1,4 +1,11 @@
 # NEUB Thesis/Project Report Template
+## Contents
+**[What is this?](#what-is-this)**
+
+**[Usage](#usage)**
+
+**[Copying the project in Overleaf](#copying-the-project-in-overleaf)**
+
 ## What is this?
 Use this report template to prepare your report for final year Thesis or Project. This template is designed in Latex. If you use desptop latex editor, you can donwload the full template as zip from [this repository](https://codeload.github.com/shparvez001/NEUB-Thesis-Project-Template/zip/refs/heads/main). You can also download the template as zip file from [this overleaf link](https://www.overleaf.com/read/gqnnyxfmhbky#a0ccf7). 
 
