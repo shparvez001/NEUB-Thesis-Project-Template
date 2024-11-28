@@ -1,0 +1,5 @@
+% Name, Registration number
+% Add each students in new line
+Student A, 200103020029
+Student B, 200103020030
+Student C, 200103020031

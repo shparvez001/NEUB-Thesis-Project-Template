@@ -1,0 +1,22 @@
+Latex Source code for NEUB CSE
+Please read following instructions ....
+
+Chapters    --> Add your thesis contents here
+
+figures    -->   Add your figures here
+
+tables    -->   Add your tables here
+
+pages      --> Add abstract, acknowledgement, abbreviation, and References 
+
+parameters  --> In this folder you can add your thesis information like
+               author's name, ID, degree, session, supervisor name and BOEs
+
+algorithms --> for creating algorithms 
+
+neub_cse_thesis.sty  --> For changing this thesis template 
+                         Here, you can change Page type, margin, font type, size, line spacing and glossaries etc.
+
+neub_cse_thesis.bib  --> Add your references here 
+
+thesis_book.tex      --> change organization of the book 

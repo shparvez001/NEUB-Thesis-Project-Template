@@ -1,0 +1,4 @@
+% Name, Role, Designation, Status, Address
+Teacher A, ,Designation, \textbf{Chairman}, "Department of Computer Science and Engineering ", 
+Teacher B, ,Designation, , "Department of Computer Science and Engineering ", 
+Teacher C, ,Designation, \textbf{Supervisor}, "Department of Computer Science and Engineering ", 

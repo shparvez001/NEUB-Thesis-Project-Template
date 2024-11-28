@@ -1,0 +1,56 @@
+\documentclass[12pt,notitlepage,oneside]{report}
+\setcounter{secnumdepth}{3}
+\usepackage{neub_cse_thesis}
+\usepackage{rotating}
+\usepackage{lipsum}
+\usepackage{graphicx}
+\usepackage{subcaption} 
+%\usepackage[acronym, toc]{glossaries}
+
+% Uncomment any of the following lines should you need to
+% suppress the LOF, or LOT or LOA
+
+% \suppresslistoffigures 
+% \suppresslistoftables
+% \suppresslistofalgorithms
+
+% For index creation, comment this out if you do not want to create an index
+\makeindex[intoc]
+\patchcmd{\titlepage}{empty}{fancy}{}{}
+\patchcmd{\chapter}{plain}{fancy}{}{}
+
+\begin{document}   
+
+    % Edit as needed below this line
+    % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    % Chapter-1
+    \input{chapters/introduction.tex}
+    
+    % Chapter-2
+    \input{chapters/literature_review.tex}
+    
+    
+    % Chapter-3
+    \input{chapters/methodology.tex}
+    
+    % Chapter-4
+    \input{chapters/result_discussion.tex}
+    
+    % Chapter-5
+    \input{chapters/conclusion.tex}
+    
+    % Bibliographies and appendices
+    \input{pages/bibliography.tex}
+    
+    %Uncomment the following line to add appendix. Add more appendix if necessary
+    \input{pages/APPENDIX A}
+    \renewcommand\leftmark{Appendices}
+    
+    % Algorithms
+    \input{pages/algorithms}
+    
+    % Chapter showing example of index creation
+    %\input{pages/indexcreation.tex}
+    % Index, comment this out if you do not want to create an index
+    \printindex
+\end{document}
