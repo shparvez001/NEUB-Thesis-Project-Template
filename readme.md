@@ -1,4 +1,5 @@
 # NEUB Thesis/Project Report Template
+
 ## Contents
 **[What is this?](#what-is-this)**
 
